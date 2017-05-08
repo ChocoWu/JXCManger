@@ -1,0 +1,6 @@
+bin
+.classpath
+.models
+.myhibernatedata
+.project
+manifest.mf
